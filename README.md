@@ -16,7 +16,7 @@
 операции с корзиной товаров, просмотр и редактирование заказов, получение e-mail с
 подтверждением заказов.
 \
-**Используемые технологии**: Django, DRF, PostgreSQL, celery, redis, pytest
+**Используемые технологии**: Django, DRF, PostgreSQL, celery, redis, pytest, drf-spectacular, django-allauth
 
 
  - [VKinder (VK-бот для знакомств)](https://github.com/Khristoforr/ADPYDiploma)
